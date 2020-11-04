@@ -4,7 +4,7 @@ import time
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix = "!")
-TOKEN = "NjU4OTU4NTcyMzA2MTY5ODY2.XgHufQ.OoATTraBRDAXdNnXVhh1HJu4JiM"
+TOKEN = "Enter token here"
 
 
 def get_insult():
